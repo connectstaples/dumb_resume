@@ -32,7 +32,7 @@ function App() {
   };
 
   const slides = [
-    'career.JPG',
+    'gains.png',
     'headshot.jpg',
     'talk.png',
     'talk1.JPG',
